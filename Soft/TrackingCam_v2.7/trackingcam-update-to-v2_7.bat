@@ -1,0 +1,1 @@
+start trackingcam-update.exe TrackingCam2_2019_04_07_02511f0_v2_7_enc.bin
